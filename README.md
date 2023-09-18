@@ -35,7 +35,7 @@ Another crucial aspect that required consideration was ensuring that all our act
 <span>
 <span style="font-family: Times New Roman; font-size: 13pt;">
 
-In the second phase of the project, we focused on coding and programming the simulation model in Python. This involved implementing the logic and flow of events, considering the different activities, interarrival times, service times, and delays associated with each event. Once the simulation model was fully developed, we analyzed the output and performed sensitivity analysis to assess the system's performance under various scenarios.
+In the second phase of the project, we focused on coding and programming the simulation model in Python uisng "SimPy" library. This involved implementing the logic and flow of events, considering the different activities, interarrival times, service times, and delays associated with each event. Once the simulation model was fully developed, we analyzed the output and performed sensitivity analysis to assess the system's performance under various scenarios.
 
 <span>
 
