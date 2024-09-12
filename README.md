@@ -54,3 +54,5 @@ During the final phase of our study, we were presented with two alternative syst
   
 You can find the results and step-by-step explanations for this project in the .pdf file. We've also included the code for each phase, along with complete documentation and line-by-line explanations for your further review.
 
+## License
+[MIT LICENSE](LICENSE)
